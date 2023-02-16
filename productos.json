@@ -1,0 +1,8 @@
+[
+    { "id": 1, "nombre": "Ensalada", "categoria": "Comidas", "precio": 1000, "stock": 12, "img": "./images/comidas/ensalada.jpg" },
+    { "id": 2, "nombre": "Hamburguesa", "categoria": "Comidas", "precio": 2500, "stock": 20, "img": "./images/comidas/Hamburguesas.jpg" },
+    { "id": 3, "nombre": "Pizza", "categoria": "Comidas", "precio": 2000, "stock": 12, "img": "./images/comidas/pizzas1.jpg" },
+    { "id": 10, "nombre": "Cerveza", "categoria": "Bebidas", "precio": 750, "stock": 15, "img": "./images/bebidas/Cervezas.jpg" },
+    { "id": 11, "nombre": "Gin Tonic", "categoria": "Bebidas", "precio": 1200, "stock": 10, "img": "./images/bebidas/Gintonería.jpg" },
+    { "id": 12, "nombre": "Licuado", "categoria": "Bebidas", "precio": 650, "stock": 3, "img": "./images/bebidas/Licuados.jpg" }
+    ]

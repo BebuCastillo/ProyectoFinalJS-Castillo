@@ -1,0 +1,21 @@
+#contenedorProductos {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.imgProducto {
+    height: 350px;
+    width: 350px;
+}
+
+.producto img {
+    width: 300%;
+}
+
+#contenedorCarrito {
+    border: 4px solid black;
+    min-height: 100px;
+    display: flex;
+    flex-flow: column;
+    }
